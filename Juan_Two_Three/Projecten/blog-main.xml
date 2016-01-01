@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Projecten</title>
+    <link>http://developer.juantwothree.me/Juan_Two_Three/Projecten</link>
+    <description>Hieronder zijn alle projecten te vinden, als u op &#x2018;lees meer&#x2019; klikt kunt u het project ook donwloaden</description>
+    <item>
+      <title>Guess the number Game</title>
+      <link>http://developer.juantwothree.me/Juan_Two_Three/Projecten/Artikelen/2016/1/1_Daniel_krijgt_les.html</link>
+      <guid isPermaLink="false">8f832a92-c2e0-4f6d-b5f7-7055bab56000</guid>
+      <pubDate>Fri, 1 Jan 2016 20:54:41 +0100</pubDate>
+      <description>Dit is mijn eerste project, een simpel &#x2018;Guess the number&#x2019; spelletje voor op je website. Download het via de link hieronder en voeg het toe aan je website zoals in de &#x2018;readme&#x2019; staat beschreven.</description>
+      <iweb:comment enabled="0" count="0" link="http://developer.juantwothree.me/Juan_Two_Three/Projecten/Artikelen/2016/1/1_Daniel_krijgt_les.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE d MMMM y</iweb:dateFormat>
+    <iweb:baseURL>http://developer.juantwothree.me/Juan_Two_Three/Projecten</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

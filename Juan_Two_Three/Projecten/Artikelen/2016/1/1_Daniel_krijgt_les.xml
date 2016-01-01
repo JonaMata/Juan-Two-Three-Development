@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<content collectionGUID="8B940DEC-5436-4A7C-A231-306233C842AB">
+  <lastEdited clientType="local-build-20160101" date="2016-01-01 20:07:14 +0000"/>
+  <textBox id="generic-header-attribute" dynamic="no" visible="yes">
+    <richText>Freestyle</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>Dit is mijn eerste project, een simpel &#x2018;Guess the number&#x2019; spelletje voor op je website. Download het via de link hieronder en voeg het toe aan je website zoals in de &#x2018;readme&#x2019; staat beschreven.</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;HTML + JavaScript&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>Guess the number Game</richText>
+  </textBox>
+</content>

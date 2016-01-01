@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Projecten</title>
+    <link>http://developer.juantwothree.me/Juan_Two_Three/Projecten/Projecten.html</link>
+    <description>Hieronder zijn alle projecten te vinden, als u op ‘lees meer’ klikt kunt u het project ook donwloaden</description>
+    <generator>iWeb 3.0.4</generator>
+    <item>
+      <title>Guess the number Game</title>
+      <link>http://developer.juantwothree.me/Juan_Two_Three/Projecten/Artikelen/2016/1/1_Daniel_krijgt_les.html</link>
+      <guid isPermaLink="false">8f832a92-c2e0-4f6d-b5f7-7055bab56000</guid>
+      <pubDate>Fri, 1 Jan 2016 20:54:41 +0100</pubDate>
+      <description>Dit is mijn eerste project, een simpel ‘Guess the number’ spelletje voor op je website. Download het via de link hieronder en voeg het toe aan je website zoals in de ‘readme’ staat beschreven.</description>
+    </item>
+  </channel>
+</rss>

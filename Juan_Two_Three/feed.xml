@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:B0DBC015-176F-4787-BE31-A5D9E79EE6A5</id>
+ <title>Page list Atom feed</title>
+ <updated>2015-01-01T21:07:13+01:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:83D59F44-48F7-48A2-96D3-9DA8D1E673D2</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">83D59F44-48F7-48A2-96D3-9DA8D1E673D2</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2015-01-01T21:07:13.001+01:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:644009CE-49B1-4C58-81DA-ECEB425863D9</id>
+  <title>Projecten</title>
+  <title xmlns="urn:iweb:">Projecten</title>
+  <in-navbar xmlns="urn:iweb:">644009CE-49B1-4C58-81DA-ECEB425863D9</in-navbar>
+  <link rel="alternate" href="Projecten/Projecten.html"/>
+  <updated>2005-09-21T03:08:38+02:00</updated>
+  <content>Projecten</content>
+ </entry>
+</feed>
